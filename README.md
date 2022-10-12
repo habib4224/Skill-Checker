@@ -1,6 +1,6 @@
  
  Project name: Quiz-Crackerz-Assignment
-Git Link: 
+Git live Site Link: https://stately-toffee-88d57d.netlify.app/blog
 Welcome to Skill Checker
  project. I have made a website to make sure you can participate on quiz on basic web development skills. There are 4 types of quiz in this website. you can give quiz under css,git,javascript and react. Each catagory has some basic questions, along with an eye button which shows you correct answer for that question.
 
