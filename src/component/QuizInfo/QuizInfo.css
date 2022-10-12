@@ -1,0 +1,9 @@
+.Qtext {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.Qallpart {
+    background-color: rgb(246, 248, 248);
+    padding-top: 10px;
+}

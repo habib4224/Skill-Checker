@@ -1,0 +1,30 @@
+.header-img {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width:480px) {
+    .header-img {
+        width: 100%;
+    }
+}
+
+.allinfo {
+    display: flex;
+    border: 2px solid rgb(70, 58, 197);
+    background-color: rgb(204, 203, 216);
+    box-shadow: 5px 5px 5px rgb(61, 61, 61);
+    border-radius: 10px;
+}
+
+@media screen and (max-width:480px) {
+    .allinfo {
+        display: block;
+    }
+}
+
+.Htext {
+    text-align: center;
+}
