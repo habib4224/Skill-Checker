@@ -6,3 +6,10 @@
 .blogs {
     background-color: rgb(204, 203, 216);
 }
+
+.blogs h4 {
+    background-color: aqua;
+    color: white;
+    padding: 10px;
+    border: 2px solid blue;
+}
