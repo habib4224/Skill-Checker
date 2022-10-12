@@ -1,7 +1,13 @@
-Project name: Quiz-Crackerz-Assignment
+ 
+ Project name: Quiz-Crackerz-Assignment
 Git Link: 
 Welcome to Skill Checker
  project. I have made a website to make sure you can participate on quiz on basic web development skills. There are 4 types of quiz in this website. you can give quiz under css,git,javascript and react. Each catagory has some basic questions, along with an eye button which shows you correct answer for that question.
+
+ To make the website i have gone through some process:
+1. I have used api to call load data.
+2. I have used react-bootstrap.
+3. I have use react route.
 
 
 
