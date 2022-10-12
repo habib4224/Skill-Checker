@@ -3,7 +3,7 @@ import './Blog.css'
 
 const Blog = () => {
     return (
-        <div >
+        <div className='blogs'>
             <h1>
                 * State the purpose of react router?
             </h1>
