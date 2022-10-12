@@ -1,31 +1,49 @@
+.navFull {
+    background-color: rgb(247, 247, 247);
+    margin-bottom: 20px;
+
+}
+
+.Heading h3 {
+    color: rgb(12, 0, 122);
+    font-weight: 800;
+}
+
+.navbars li {
+    padding: 10px;
+}
+
 .navbar a {
     text-decoration: none;
     color: rgb(10, 0, 155);
 
 }
 
-.Heading {
-    color: rgb(12, 0, 122);
-    font-weight: 900;
-}
-
-.navbar {
-    width: 100%;
-    margin-top: 20px;
-}
-
-.all_link a {
-    padding: 10px;
-}
-
-.fullNav {
-    padding-left: 5%;
-    padding-right: 5%;
+.navbars {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between
 }
+
+@media screen and (max-width:480px) {
+    .navbars {
+        display: block;
+    }
+}
+
 
 .active {
     background-color: rgb(204, 203, 216);
     border-radius: 10px;
+    padding: 10px;
+}
+
+.items {
+    display: flex;
+    padding-left: 20px;
+}
+
+@media screen and (max-width:480px) {
+    .items {
+        display: block;
+    }
 }

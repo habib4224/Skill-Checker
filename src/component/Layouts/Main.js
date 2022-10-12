@@ -3,8 +3,6 @@ import { Outlet } from 'react-router-dom';
 import Navbars from '../NavBar/Navbars';
 
 
-
-
 const Main = () => {
     return (
         <div>
